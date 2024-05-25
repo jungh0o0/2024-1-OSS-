@@ -1,0 +1,13 @@
+#!/bin/bash
+
+location="$1"
+
+echo "-출력-"
+echo "현재위치 : $location "
+
+directory=$(ls -l $location | cut -c1|grep d | wc -l)
+file=$(ls -l $location | cut -c1 | grep -v d | wc -l)
+
+echo "파일수 $file, 폴더 수 $directory 입니다."
+echo "hi"
+
