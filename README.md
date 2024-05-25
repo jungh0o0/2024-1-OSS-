@@ -3,7 +3,7 @@
 
 ### Hankuk University of Foreign Studies
 leejungho 202303340
-![hufs](./image.png)
+![hufs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25ED%2595%259C%25EA%25B5%25AD%25EC%2599%25B8%25EA%25B5%25AD%25EC%2596%25B4%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590%2F%25EA%25B8%2580%25EB%25A1%259C%25EB%25B2%258C%25EC%25BA%25A0%25ED%258D%25BC%25EC%258A%25A4&psig=AOvVaw12XeiEpgvEI5NYwNwwWIkH&ust=1716724155460000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPilg__dqIYDFQAAAAAdAAAAABAD)
 
 ### About 
 assignment and study
