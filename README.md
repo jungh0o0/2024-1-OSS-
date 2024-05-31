@@ -6,7 +6,6 @@ leejungho 202303340
 
 ![hufs](https://www.hufs.ac.kr/sites/hufs/images/common/logo-top-color.png) 
 
-![img](img.png)
 
 ### About 
 assignment and study
