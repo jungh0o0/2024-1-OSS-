@@ -1,5 +1,5 @@
 
-# 주어진 월을 소문자로 변환한 후 각 월과 매칭하여 올바른 형태로 변환
+# 문자 변환
 case ${1,,} in
   jan* | 1) month="Jan" ;;
   feb* | 2) month="Feb" ;;
@@ -16,9 +16,9 @@ case ${1,,} in
   *) month="not exist" ;;
 esac
 
-# 입력값 검증
+# 입력 확인
 if [ "$#" -ne 3 ]; then
-  echo "입력값 오류"
+  echo "입력 오류"
   exit 1
 fi
 
@@ -44,7 +44,7 @@ else
   flag=1
 fi
 
-# 각 월 일수 정의
+# 각 월 일수 
 case $month in
   "Jan" | "Mar" | "May" | "Jul" | "Aug" | "Oct" | "Dec") days_in_month=31 ;;
   "Apr" | "Jun" | "Sep" | "Nov") days_in_month=30 ;;
